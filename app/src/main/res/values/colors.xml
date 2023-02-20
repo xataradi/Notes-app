@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#22A9F5</color>
+    <color name="colorPrimaryDark">#1587CB</color>
+    <color name="colorAccent">#AAAAAA</color>
+
+
+    <color name="colorStatusBar">#0095FF</color>
+    <color name="colorImageBottomToolBar">#AAAAAA</color>
+    <color name="colorActionMode">#555555</color>
+
+</resources>
